@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jozef",
+        "last_name": "Akam",
+        "email": "jakam0@hp.com",
+        "gender": "Female",
+        "ip_address": "151.119.241.93"
+    },
+    {
+        "id": 2,
+        "first_name": "Calv",
+        "last_name": "Longrigg",
+        "email": "clongrigg1@engadget.com",
+        "gender": "Bigender",
+        "ip_address": "253.13.49.50"
+    },
+    {
+        "id": 3,
+        "first_name": "Liv",
+        "last_name": "Houson",
+        "email": "lhouson2@smugmug.com",
+        "gender": "Polygender",
+        "ip_address": "253.148.227.169"
+    },
+    {
+        "id": 4,
+        "first_name": "Norman",
+        "last_name": "Pelerin",
+        "email": "npelerin3@washingtonpost.com",
+        "gender": "Non-binary",
+        "ip_address": "57.198.36.231"
+    },
+    {
+        "id": 5,
+        "first_name": "Ernestine",
+        "last_name": "Sterrie",
+        "email": "esterrie4@nytimes.com",
+        "gender": "Genderqueer",
+        "ip_address": "47.121.100.248"
+    },
+    {
+        "id": 6,
+        "first_name": "Coraline",
+        "last_name": "Rollitt",
+        "email": "crollitt5@ezinearticles.com",
+        "gender": "Agender",
+        "ip_address": "198.251.47.92"
+    },
+    {
+        "id": 7,
+        "first_name": "Henrik",
+        "last_name": "Crawford",
+        "email": "hcrawford6@rediff.com",
+        "gender": "Genderqueer",
+        "ip_address": "116.114.162.20"
+    },
+    {
+        "id": 8,
+        "first_name": "Roger",
+        "last_name": "Callacher",
+        "email": "rcallacher7@oaic.gov.au",
+        "gender": "Polygender",
+        "ip_address": "240.33.176.251"
+    },
+    {
+        "id": 9,
+        "first_name": "Herta",
+        "last_name": "Rearden",
+        "email": "hrearden8@indiatimes.com",
+        "gender": "Genderfluid",
+        "ip_address": "96.138.192.117"
+    }
+]
